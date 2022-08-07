@@ -2,8 +2,8 @@
 I'm Peldom Zhang, *(official name Yanzhe Zhang)*
 
 - 👨‍🎓 1st year PhD Student at **Westlake University**
-- 🤖 Majored in **Computational Structural Biology**
-- 🦾 Using Deep Learning and Rosetta to do **protein design**
+<!-- - 🤖 Majored in **Computational Structural Biology** -->
+<!-- - 🦾 Using Deep Learning and Rosetta to do **protein design** -->
 - 🌔 An amateur astronomer, hardware tech savvy
 
 ### Contact
