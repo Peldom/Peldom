@@ -1,9 +1,10 @@
 ### Hello, World! 👋
 I'm Peldom Zhang, *(official name Yanzhe Zhang)*
 
-- 👨‍🎓 2nd-year PhD Student at **Westlake University**
+- 👨‍🎓 2nd-year PhD Candidate at **Westlake University**
 - 🤖 Majored in **Computational Structural Biology**
-- 🦾 Using Deep Learning and Rosetta to do **protein design**
+- 🦾 Using Deep Learning/Compuational Chemistry to do **protein design**
+- 🧪 Good at Synthetic Biology experiments
 - 🌔 An amateur astronomer, hardware tech savvy
 
 ### Contact
@@ -13,7 +14,7 @@ I'm Peldom Zhang, *(official name Yanzhe Zhang)*
 - Zhihu: [Peldom](https://www.zhihu.com/people/quintin-72)
 - Linkedin: [Sean Peldom Zhang](https://www.linkedin.com/in/sean-peldom-zhang-803108200/)
 
-### Fun issues of GitHub ID
+### Fun facts about GitHub ID
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Peldom&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 <!-- ![Profile views](https://gpvc.arturio.dev/Peldom) -->
 <!-- copied from amorehead -->
